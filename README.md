@@ -24,7 +24,7 @@ This project demonstrates React fundamentals, reusable components, state managem
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 ### ✅ To-Do Application
 
@@ -82,6 +82,10 @@ This project demonstrates React fundamentals, reusable components, state managem
 - Dynamic Rendering
 - Component Based Architecture
 
+
+---
+
+THANK YOU
 
 ---
 
