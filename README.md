@@ -85,8 +85,39 @@ This project demonstrates React fundamentals, reusable components, state managem
 
 ---
 
-THANK YOU
+
 
 ---
 
 ## 📂 Project Structure
+
+src
+│
+├── components
+│     ├── Navbar.jsx
+│     ├── ProductCard.jsx
+│     └── CartItem.jsx
+│
+├── pages
+│     ├── Home.jsx
+│     ├── Products.jsx
+│     ├── ProductDetails.jsx
+│     └── Cart.jsx
+│
+├── redux
+│     ├── store.js
+│     └── cartSlice.js
+│
+├── data
+│     └── products.js
+│
+├── App.js
+├── App.css
+└── index.js
+
+
+---
+
+THANK YOU
+
+---
